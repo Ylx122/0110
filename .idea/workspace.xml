@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50c1ebf8-4a5e-4f99-924a-e65f2a05a21a" name="Default Changelist" comment="1、多态&#10;2、继承">
-      <change afterPath="$PROJECT_DIR$/src/Test03.java" afterDir="false" />
+    <list default="true" id="50c1ebf8-4a5e-4f99-924a-e65f2a05a21a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0110.md" beforeDir="false" afterPath="$PROJECT_DIR$/0110.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -84,7 +81,7 @@
       <workItem from="1610250557263" duration="666000" />
       <workItem from="1610260678325" duration="7637000" />
       <workItem from="1610268522052" duration="13000" />
-      <workItem from="1610268724678" duration="1053000" />
+      <workItem from="1610268724678" duration="1655000" />
     </task>
     <task id="LOCAL-00001" summary="学生、教师类&#10;封装&#10;继承&#10;构造方法">
       <created>1610264748581</created>
@@ -107,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610268215982</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1610270602842</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610270602842</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +121,8 @@
     <MESSAGE value="学生、教师类&#10;封装&#10;继承&#10;构造方法" />
     <MESSAGE value="markdown笔记开始" />
     <MESSAGE value="1、多态&#10;2、继承" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、多态&#10;2、继承" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="88" key="#Project_Structure" timestamp="1610270477458">
@@ -128,10 +133,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="591" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1610267387377" />
-    <state x="412" y="0" key="CommitChangelistDialog2" timestamp="1610268789312">
+    <state x="412" y="0" key="CommitChangelistDialog2" timestamp="1610270601712">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="412" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610268789312" />
+    <state x="412" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610270601712" />
     <state x="580" y="173" key="FileChooserDialogImpl" timestamp="1610264204406">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -144,10 +149,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="71" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610264155601" />
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1610270511184">
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1610270617462">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610270511184" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610270617462" />
     <state x="480" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1610250561904">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
