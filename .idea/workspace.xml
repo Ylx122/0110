@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50c1ebf8-4a5e-4f99-924a-e65f2a05a21a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+    <list default="true" id="50c1ebf8-4a5e-4f99-924a-e65f2a05a21a" name="Default Changelist" comment="1、多态&#10;2、继承">
+      <change afterPath="$PROJECT_DIR$/src/Test03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0110.md" beforeDir="false" afterPath="$PROJECT_DIR$/0110.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +82,9 @@
       <option name="presentableId" value="Default" />
       <updated>1610250552247</updated>
       <workItem from="1610250557263" duration="666000" />
-      <workItem from="1610260678325" duration="7192000" />
+      <workItem from="1610260678325" duration="7637000" />
+      <workItem from="1610268522052" duration="13000" />
+      <workItem from="1610268724678" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="学生、教师类&#10;封装&#10;继承&#10;构造方法">
       <created>1610264748581</created>
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610266741378</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1、多态&#10;2、继承">
+      <created>1610268215982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610268215982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,37 +116,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="学生、教师类&#10;封装&#10;继承&#10;构造方法" />
     <MESSAGE value="markdown笔记开始" />
-    <option name="LAST_COMMIT_MESSAGE" value="markdown笔记开始" />
+    <MESSAGE value="1、多态&#10;2、继承" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、多态&#10;2、继承" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="88" key="#Project_Structure" timestamp="1610268134687">
+    <state x="392" y="88" key="#Project_Structure" timestamp="1610270477458">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1610268134687" />
+    <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1610270477458" />
     <state x="591" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1610267387377">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="591" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1610267387377" />
-    <state x="412" y="0" key="CommitChangelistDialog2" timestamp="1610266740375">
+    <state x="412" y="0" key="CommitChangelistDialog2" timestamp="1610268789312">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="412" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610266740375" />
+    <state x="412" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610268789312" />
     <state x="580" y="173" key="FileChooserDialogImpl" timestamp="1610264204406">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="173" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1610264204406" />
-    <state x="675" y="325" width="274" height="210" key="Github.ShareDialog" timestamp="1610265289984">
+    <state x="675" y="325" width="274" height="210" key="Github.ShareDialog" timestamp="1610268841242">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="675" y="325" width="274" height="210" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1610265289984" />
+    <state x="675" y="325" width="274" height="210" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1610268841242" />
     <state x="301" y="71" key="SettingsEditor" timestamp="1610264155601">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="71" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610264155601" />
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1610266774827">
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1610270511184">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610266774827" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610270511184" />
     <state x="480" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1610250561904">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

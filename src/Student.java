@@ -3,6 +3,9 @@ public class Student extends User{
     private String majar;
     private String phone;
 
+    public Student(String major, String phone){
+
+    }
     public String getName() {
         return name;
     }
