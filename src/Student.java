@@ -1,17 +1,7 @@
-public class Student {
-    private int stuid;
-    private String passwd;
+public class Student extends User{
     private String name;
     private String majar;
     private String phone;
-
-    public int getStuid() {
-        return stuid;
-    }
-
-    public void setStuid(int stuid) {
-        this.stuid = stuid;          //这里的this表示本对象
-    }
 
     public String getName() {
         return name;
@@ -19,14 +9,6 @@ public class Student {
 
     public void setName(String name) {
         this.name = name;
-    }
-
-    public String getPasswd() {
-        return passwd;
-    }
-
-    public void setPasswd(String passwd) {
-        this.passwd = passwd;
     }
 
     public String getMajar() {

@@ -1,5 +1,12 @@
-public class Teacher {
-    private int teacherId;
-    private String passwd;
+public class Teacher extends User{
     private String zhicheng;
+
+    public String getZhicheng() {
+        return zhicheng;
+    }
+
+    public void setZhicheng(String zhicheng) {
+        this.zhicheng = zhicheng;
+    }
+
 }

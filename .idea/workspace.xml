@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50c1ebf8-4a5e-4f99-924a-e65f2a05a21a" name="Default Changelist" comment="" />
+    <list default="true" id="50c1ebf8-4a5e-4f99-924a-e65f2a05a21a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0110.md" beforeDir="false" afterPath="$PROJECT_DIR$/0110.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +32,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1mrT8KO5bePN3Deydj4IumaJFQq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,6 +46,7 @@
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="0110" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -45,6 +55,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.23006135" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Ylx\0110" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -69,30 +84,62 @@
       <option name="presentableId" value="Default" />
       <updated>1610250552247</updated>
       <workItem from="1610250557263" duration="666000" />
-      <workItem from="1610260678325" duration="3747000" />
+      <workItem from="1610260678325" duration="7192000" />
     </task>
+    <task id="LOCAL-00001" summary="学生、教师类&#10;封装&#10;继承&#10;构造方法">
+      <created>1610264748581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610264748581</updated>
+    </task>
+    <task id="LOCAL-00002" summary="markdown笔记开始">
+      <created>1610266741378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610266741378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学生、教师类&#10;封装&#10;继承&#10;构造方法" />
+    <MESSAGE value="markdown笔记开始" />
+    <option name="LAST_COMMIT_MESSAGE" value="markdown笔记开始" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="392" y="88" key="#Project_Structure" timestamp="1610262440614">
+    <state x="392" y="88" key="#Project_Structure" timestamp="1610268134687">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1610262440614" />
-    <state x="591" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1610261659037">
+    <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1610268134687" />
+    <state x="591" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1610267387377">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="591" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1610261659037" />
+    <state x="591" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1610267387377" />
+    <state x="412" y="0" key="CommitChangelistDialog2" timestamp="1610266740375">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="412" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610266740375" />
     <state x="580" y="173" key="FileChooserDialogImpl" timestamp="1610264204406">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="173" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1610264204406" />
+    <state x="675" y="325" width="274" height="210" key="Github.ShareDialog" timestamp="1610265289984">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="675" y="325" width="274" height="210" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1610265289984" />
     <state x="301" y="71" key="SettingsEditor" timestamp="1610264155601">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="71" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610264155601" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1610266774827">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1610266774827" />
     <state x="480" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1610250561904">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
